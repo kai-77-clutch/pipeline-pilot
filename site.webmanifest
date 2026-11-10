@@ -1,6 +1,6 @@
 {
-    "name": "Tomodoro",
-    "short_name": "Tomodoro",
+    "name": "pipeline-pilot",
+    "short_name": "pipeline-pilot",
     "start_url": "./index.html",
     "description": "A pomodoro timer for the web",
     "icons": [
