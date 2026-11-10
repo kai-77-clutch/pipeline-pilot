@@ -2,7 +2,7 @@
 
 This is a pipeline-pilot trial fork of [lazy-guy/tomodoro](https://github.com/lazy-guy/tomodoro) (MIT). It is not a commercial product. Original project: Tomodoro by lazy-guy. License: [MIT](LICENSE.md).
 
-GitHub and Ko-fi links in the app still point at the original project.
+In-app GitHub points at this repo (https://github.com/kai-77-clutch/pipeline-pilot). Ko-fi still goes to the original author.
 
 ## Run locally
 
